@@ -12,9 +12,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
+
 
 ### 👨‍💻 Sobre Mim
 
@@ -32,8 +30,6 @@
   <a href="https://www.linkedin.com/in/yssaky-assad-luz-4562b6236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-    </td>
-    <td valign="top" width="35%">
 
 ![Estatísticas do GitHub de Assad-Lz](https://github-readme-stats.vercel.app/api?username=Assad-Lz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
