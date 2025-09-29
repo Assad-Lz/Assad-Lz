@@ -35,9 +35,8 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Assad-Lz&layout=compact&langs_count=7&theme=dracula)
 
-    </td>
-  </tr>
-</table>
+    
+ 
 
 ---
 
