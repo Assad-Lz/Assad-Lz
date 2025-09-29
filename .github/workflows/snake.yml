@@ -2,11 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 12 * * *" # Roda todo dia ao meio-dia
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    # Adicionando permissão de escrita para a automação
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
