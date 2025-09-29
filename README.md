@@ -74,7 +74,11 @@
 ### 🐍 Minha Contribuição em Forma de Jogo da Cobrinha
 
 <div align="center">
-  <img src="https://github.com/Assad-Lz/Assad-Lz/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Assad-Lz&layout=compact&langs_count=7&theme=dracula)
