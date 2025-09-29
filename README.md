@@ -2,7 +2,7 @@
 
 # Olá, eu sou Yssaky Assad Luz 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Estudante+de+Ciência+da+Computação;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Assad-Lz&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
