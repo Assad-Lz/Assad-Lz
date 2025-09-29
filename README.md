@@ -32,12 +32,14 @@
   <a href="https://www.linkedin.com/in/yssaky-assad-luz-4562b6236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+    </td>
+    <td valign="top" width="35%">
 
 ![Estatísticas do GitHub de Assad-Lz](https://github-readme-stats.vercel.app/api?username=Assad-Lz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Assad-Lz&layout=compact&langs_count=7&theme=dracula)
 
-    
+    </td>
   </tr>
 </table>
 
@@ -77,12 +79,8 @@
 ### 🐍 Minha Contribuição em Forma de Jogo da Cobrinha
 
 <div align="center">
-  <img src="https://github.com/Assad-Lz/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/Assad-Lz/Assad-Lz/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de (SEU-USUARIO-AQUI)](https://github-readme-stats.vercel.app/api?username=Assad-Lz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Assad-Lz&layout=compact&langs_count=7&theme=dracula)
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
