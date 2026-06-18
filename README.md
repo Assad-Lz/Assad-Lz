@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Assad-Lz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Assad-Lz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -113,14 +113,11 @@
 
 ---
 
-## 📋 Resumo do Perfil
+## 📋 Métricas Detalhadas
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/profile-summary-card-output/profile-summary-card-output/0-profile-details.svg"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/profile-summary-card-output/profile-summary-card-output/2-most-commit-language.svg"/>
-<img width="49%" src="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/profile-summary-card-output/profile-summary-card-output/3-stats.svg"/>
+<img src="https://raw.githubusercontent.com/Assad-Lz/Assad-Lz/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
